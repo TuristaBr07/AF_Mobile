@@ -1,0 +1,4 @@
+com.example.bibliotecageo.test.app-androidTest-0 C:\Users\Gabriel\Desktop\AF_Mobile_Nunes\app\build\generated\res\resValues\androidTest\debug
+com.example.bibliotecageo.test.app-mergeDebugAndroidTestResources-1 C:\Users\Gabriel\Desktop\AF_Mobile_Nunes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.bibliotecageo.test.app-mergeDebugAndroidTestResources-2 C:\Users\Gabriel\Desktop\AF_Mobile_Nunes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.bibliotecageo.test.app-debugAndroidTest-3 C:\Users\Gabriel\Desktop\AF_Mobile_Nunes\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

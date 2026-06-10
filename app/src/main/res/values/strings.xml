@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblioteca Geolocalizada</string>
+    <string name="btn_pesquisar_livros">Pesquisar Livros</string>
+    <string name="btn_meus_livros">Meus Livros</string>
+    <string name="hint_pesquisa">Digite título, autor ou palavra-chave</string>
+    <string name="btn_pesquisar">Pesquisar</string>
+    <string name="label_titulo">Título:</string>
+    <string name="label_autor">Autor:</string>
+    <string name="label_local">Local onde encontrou/leu:</string>
+    <string name="label_status">Status de leitura:</string>
+    <string name="label_observacao">Observação pessoal:</string>
+    <string name="hint_observacao">Digite sua observação sobre o livro...</string>
+    <string name="btn_capturar_localizacao">Capturar Localização (GPS)</string>
+    <string name="btn_salvar">Salvar Livro</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="toque_longo">Toque longo para excluir | Toque curto para editar</string>
+</resources>

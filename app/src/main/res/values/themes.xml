@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BibliotecaGeo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/cor_primaria</item>
+        <item name="colorPrimaryDark">@color/cor_primaria_escura</item>
+        <item name="colorAccent">@color/cor_acento</item>
+    </style>
+</resources>

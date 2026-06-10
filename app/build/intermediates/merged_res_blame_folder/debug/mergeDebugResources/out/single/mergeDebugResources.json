@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.bibliotecageo.app-debug-33:/layout_item_livro.xml.flat",
+        "source": "com.example.bibliotecageo.app-main-35:/layout/item_livro.xml"
+    },
+    {
+        "merged": "com.example.bibliotecageo.app-debug-33:/layout_activity_pesquisa_livro.xml.flat",
+        "source": "com.example.bibliotecageo.app-main-35:/layout/activity_pesquisa_livro.xml"
+    },
+    {
+        "merged": "com.example.bibliotecageo.app-debug-33:/layout_activity_cadastro_livro.xml.flat",
+        "source": "com.example.bibliotecageo.app-main-35:/layout/activity_cadastro_livro.xml"
+    },
+    {
+        "merged": "com.example.bibliotecageo.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.bibliotecageo.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bibliotecageo.app-debug-33:/layout_activity_listagem_livros.xml.flat",
+        "source": "com.example.bibliotecageo.app-main-35:/layout/activity_listagem_livros.xml"
+    }
+]
